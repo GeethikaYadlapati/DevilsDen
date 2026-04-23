@@ -45,7 +45,7 @@ This was a team capstone project at Arizona State University.
 
 | Name | GitHub |
 |---|---|
-| Geethika Yadlapati | [@GeethikaYadlapati](https://github.com/GeethikaYadlapati) |
+| Geethika Yadlapati (me) | [@GeethikaYadlapati](https://github.com/GeethikaYadlapati) |
 | Aarya Mathreja | [@ViperFangs](https://github.com/ViperFangs) |
 | Olivia Eppert | [@OliviaEppert](https://github.com/OliviaEppert) |
 | Wed Batarfi | [@wbatarfi](https://github.com/wbatarfi) |
@@ -123,4 +123,4 @@ MEASUREMENT_ID=your_measurement_id_here
 
 ---
 
-> **Note:** This repository is a cleaned-up version of the original capstone project.
+> **Note:** This repository is a cleaned-up version of the original capstone project repo.
