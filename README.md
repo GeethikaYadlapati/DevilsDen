@@ -36,6 +36,7 @@ Compatibility is scored using a vector dot product similarity calculation across
 - **React Native** — cross-platform mobile app
 - **Firebase Firestore** — real-time database for user data and matches
 - **Firebase Auth** — user authentication with persistent sessions via AsyncStorage
+- **Firebase Storage** — profile image uploads and retrieval
 
 ---
 
